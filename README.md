@@ -9,5 +9,5 @@ In this repo you will find projects implemented with the concepts of Neural Netw
 
 
 ## Contact
-* Afnan Qalas - http://linkedin.com/in/afnanbalghaith 
+* [Afnan Qalas](http://linkedin.com/in/afnanbalghaith) 
 
