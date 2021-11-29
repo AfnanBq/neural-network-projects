@@ -14,8 +14,13 @@ This project is implemented to classify the raod signs by using [German Traffic 
 
 ## Results
 Testing loss and accuracy:
-* loss: 0.3086 
-*  accuracy: 0.9082
+- Adam 
+* loss: 0.0569 
+* accuracy: 0.9850
+
+- SGD
+*  loss: 0.1988
+*  accuracy: 0.9450 
 
 ## Technologies
 Project is created with:
@@ -35,7 +40,7 @@ To run this project, install it locally:
  python traffic.py gtsrb
 ```
 ## Contact
-* [Afnan Qalas](http://linkedin.com/in/afnanbalghaith)
+[Afnan Qalas](http://linkedin.com/in/afnanbalghaith)
 
 ## Sources
 This project is inspired by [traffic](https://cs50.harvard.edu/ai/2020/projects/5/traffic/)
