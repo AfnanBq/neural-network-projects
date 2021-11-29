@@ -29,7 +29,7 @@ To run this project, install it locally:
 
 ```
 ## Contact
-* Afnan Qalas - http://linkedin.com/in/afnanbalghaith
+* [Afnan Qalas](http://linkedin.com/in/afnanbalghaith)
 
 ## Sources
 This project is inspired by 
