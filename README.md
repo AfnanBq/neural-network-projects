@@ -5,9 +5,9 @@ In this repo you will find projects implemented with the concepts of Neural Netw
 * [Projects](#projects)
 
 ## Projects
-* [Traffic](https://github.com/AfnanBq/neural-network-projects/tree/main/traffic)
+* [Traffic] (https://github.com/AfnanBq/neural-network-projects/tree/main/traffic)
 
 
 ## Contact
-* [Afnan Qalas](http://linkedin.com/in/afnanbalghaith) 
+* Afnan Qalas - http://linkedin.com/in/afnanbalghaith 
 
