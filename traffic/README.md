@@ -13,6 +13,9 @@ This project is implemented to classify the raod signs by using [German Traffic 
 
 
 ## Results
+Testing loss and accuracy:
+* loss: 0.3086 
+*  accuracy: 0.9082
 
 ## Technologies
 Project is created with:
@@ -21,9 +24,7 @@ Project is created with:
 * scikit-learn 0.19.1
 * numpy 1.19.5
 * opencv-python 4.5.1.48
-
-
-
+* 
 ## Setup
 To run this project, install it locally:
 * git clone https://github.com/AfnanBq/neural-network-projects.git
