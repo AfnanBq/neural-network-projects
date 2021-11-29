@@ -11,7 +11,7 @@ This project is implemented to classify the raod signs by using [German Traffic 
 
 ## Introduction
 In this project I implemented neural netwrok from scratch by using TensorFlow to classify 43 types of raod signs. The implemented neural network consists 5 Conv layers, 4 Maxpooling layers, and a hidden layers that has 128 neurons. The following digram shows the summary information of the implemented neural network. 
-![alt text](https://github.com/AfnanBq/neural-network-projects/traffic/blob/master/summary.png?raw=true)
+![alt text](https://github.com/AfnanBq/neural-network-projects/blob/master/summary.png?raw=true)
 
 
 ## Results
