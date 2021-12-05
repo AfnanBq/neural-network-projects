@@ -1,5 +1,5 @@
 # Traffic
-This project is implemented to classify the raod signs by using [German Traffic Sign Recognition Benchmark](https://benchmark.ini.rub.de/?section=gtsrb&subsection=news)(GTSRB) dataset.
+This project is implemented to classify the road signs by using [German Traffic Sign Recognition Benchmark](https://benchmark.ini.rub.de/?section=gtsrb&subsection=news)(GTSRB) dataset.
 
 ## Table of contents
 * [Introduction](#introduction)
@@ -10,7 +10,7 @@ This project is implemented to classify the raod signs by using [German Traffic 
 * [Sources](#sources)
 
 ## Introduction
-In this project I implemented neural netwrok from scratch by using TensorFlow to classify 43 types of raod signs. The implemented neural network consists 5 Conv layers, 4 Maxpooling layers, and a hidden layers that has 128 neurons. The following digram shows the summary information of the implemented neural network. 
+In this project, I implemented a neural network from scratch by using TensorFlow to classify 43 types of road signs. The implemented neural network consists of 5 Conv layers, 4 Maxpooling layers, and a hidden layer with 128 neurons. The following diagram shows the summary information of the implemented neural network. 
 ![alt text](https://github.com/AfnanBq/neural-network-projects/blob/main/traffic/summary.png?raw=true)
 
 
